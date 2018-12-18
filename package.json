@@ -1,6 +1,6 @@
 {
-  "name": "t30",
-  "version": "0.1.0",
+  "name": "t3o",
+  "version": "0.1.1",
   "description": "Fly the DJI Tello with Node!",
   "main": "index.js",
   "scripts": {
