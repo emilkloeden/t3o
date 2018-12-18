@@ -1,0 +1,20 @@
+{
+  "name": "t30",
+  "version": "1.0.0",
+  "description": "Fly the DJI Tello with Node!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilkloeden/t3o.git"
+  },
+  "keywords": [],
+  "author": "Emil Kloeden <emilkloeden@gmail.com> (https://github.com/emilkloeden/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilkloeden/t3o/issues"
+  },
+  "homepage": "https://github.com/emilkloeden/t3o#readme"
+}
